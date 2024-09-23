@@ -1,4 +1,4 @@
-# Título do Projeto: Extremamente Aesthetic ;)
+# Título do Projeto: Utilização da IA Gamma ;)
 
 ## 📒 Descrição
 Este projeto visa criar uma apresentação visualmente atraente e informativa, alinhada às normas da ABNT. O objetivo é apresentar o conteúdo de forma clara e esteticamente agradável, utilizando elementos de design que cativem o público.
